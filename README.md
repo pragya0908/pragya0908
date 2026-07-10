@@ -344,13 +344,6 @@ Delivered a production web application **from scratch** — React.js frontend, P
 
 ## 📈 GitHub Metrics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pragya0908&show_icons=true&theme=tokyo-night&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&include_all_commits=true&count_private=true" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragya0908&layout=compact&theme=tokyo-night&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5&langs_count=8" height="180"/>
-
-<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pragya0908&theme=tokyo-night&hide_border=true&background=1a1b27&ring=7aa2f7&fire=f7768e&currStreakLabel=7aa2f7&sideLabels=c0caf5&dates=565f89" width="49%"/>
 
@@ -385,7 +378,7 @@ Delivered a production web application **from scratch** — React.js frontend, P
 <div align="center">
 
 <a href="mailto:pragya09jain@gmail.com">
-  <img src="https://img.shields.io/badge/Email-pragya09jain%40gmail.com-f7768e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27"/>
+  <img src="https://img.shields.io/badge/Email-Connect-f7768e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27"/>
 </a>
 
 <br/><br/>
