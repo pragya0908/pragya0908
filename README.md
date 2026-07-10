@@ -360,20 +360,7 @@ Delivered a production web application **from scratch** — React.js frontend, P
 
 <br/><br/>
 
-<!-- CONTRIBUTION SNAKE -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pragya0908/pragya0908/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pragya0908/pragya0908/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pragya0908/pragya0908/output/github-contribution-grid-snake-dark.svg" width="98%"/>
-</picture>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=pragya0908&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" width="98%"/>
-
-</div>
-
----
+--
 
 ## 🌱 Currently Exploring
 
